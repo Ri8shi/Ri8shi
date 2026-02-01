@@ -12,7 +12,7 @@ Currently, I’m exploring Web Development, Python Projects, and Problem Solving
 🛠 Learning Full Stack Development
 🤝 Contributing to open source projects
 
-🎯 Goals for 2025
+🎯 Goals
 🔹 Build 3+ solid portfolio projects for internships
 🔹 Land my first tech internship
 🔹 Contribute to at least 2 open source projects </br>
