@@ -50,6 +50,8 @@ Seeking a software engineering internship where I can contribute to production-l
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
+---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ri8shi&label=Profile%20views&color=0e75b6&style=flat" alt="Ri8shi" /> </p>
 
 ## GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ri8shi&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
