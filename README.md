@@ -15,6 +15,13 @@ Seeking a software engineering internship where I can contribute to production-l
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagderishi@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rishi-nagde-a92800325/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Ri8shi?t=Djunpf8mDLSJhnQtDPWtRw&s=09)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ri8shi._/) 
 
 
+# Experience
+
+**AI Internship (6 weeks):** provided by AICTE, organized by Edunet Foundation and based on IBM Skillsbuild
+https://github.com/Ri8shi/AnalogyAI
+
+**MERN Stack (4 weeks):** provided by AICTE, organized by Webstack Academy ongoing
+
 #  Tech Stack
 
 ### Languages
